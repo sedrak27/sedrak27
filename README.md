@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**sedrak27/sedrak27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sedrak 👋
 
-Here are some ideas to get you started:
+### PHP Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work mainly with PHP, Laravel, and Symfony, building APIs, integrating external services, and improving existing applications.
+
+- 🔧 Backend development, REST APIs, and third-party integrations
+- 🗄️ SQL query optimization and database design
+- 🧪 PHPUnit, refactoring, and code reviews
+- 🌱 Currently exploring Node.js, TypeScript, and NestJS
+
+### 🛠️ Tech Stack
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,postgres,redis)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=js,react,html,css)
+
+**Tools & DevOps**
+
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,postman,phpstorm)
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/sedrak-tsarukyan) · [Email](mailto:sedrak.tsarukyan99@gmail.com)
+  
