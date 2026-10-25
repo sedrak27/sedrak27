@@ -18,7 +18,7 @@ I work mainly with PHP, Laravel, and Symfony, building APIs, integrating externa
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=js,react,html,css)
+![Frontend](https://skillicons.dev/icons?i=js,html,css)
 
 **Tools & DevOps**
 
