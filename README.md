@@ -22,7 +22,7 @@ I work mainly with PHP, Laravel, and Symfony, building APIs, integrating externa
 
 **Tools & DevOps**
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,postman,swagger,phpstorm)
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,postman,phpstorm)
 
 ### 📫 Connect
 
